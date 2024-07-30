@@ -4,7 +4,8 @@ import BelowNavbar from './BelowNavbar'
 
 const NavBar = () => {
   return (
-      <div className='navbar'>
+      <div>
+        <div style={{display:"flex"}}>
         <div className='left-navbar'>
            <img src='/left-arrow.png' className='sidearrow-image'/>
            <p className='incidents'>Incidents</p>
@@ -19,6 +20,12 @@ const NavBar = () => {
             <img src='/scanner.png' className='right-img'/>
             <img src='/bell.png' className='right-img'/>
             <img src='/user2.png' className='user2-img'/>
+        </div>
+        </div>
+        <div className='flex-cards'>
+            <BelowNavbar number = "04" about="Incident Reported"/>
+            <BelowNavbar number = "06" about="Check In"/>
+            <BelowNavbar number = "03/05" about="Services Open"/>
         </div>
       </div>
   )
