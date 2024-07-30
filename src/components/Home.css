@@ -1,0 +1,9 @@
+.flex-cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -70px;
+}
+
+.home{
+    background-color: rgb(219, 237, 243);
+}

@@ -1,0 +1,92 @@
+.sidebar{
+    width: 259px;
+    height: 1120px;
+    left: -2px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #1B2535;    
+}
+
+.icon{
+   width: 105.41px;
+   height: 55.72px;
+   margin-top: 46.03px;
+   margin-left: 50px;
+   gap: 0px;
+   border: 1px 0px 0px 0px;
+   opacity: 0px;
+
+}
+
+.sidebar-items{
+    width: 183px;
+    height: 458px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 80px;
+}
+
+.sidebarFlex{
+    display: flex;
+    gap: 10px;
+    margin-left:  50px;
+}
+
+.sidebarImg{
+    width: 16px;
+    height: 16px;
+}
+
+.name{
+    margin-top: -5px;
+    width: 96px;
+    height: 21px;
+    color: #FFFFFF;
+
+}
+
+.sidebarSelect{
+    border: none;
+    background: none;
+    color: #FFFFFF;
+}
+
+.contact{
+    width: 257px;
+    height: 243px;
+    margin-top: 200px;
+
+}
+
+.contactFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 183px;
+    height: 44px;
+    top: 865px;
+    margin-left: 37px;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.contactFlex > img {
+    width: 15.94px;
+height: 15.94px;
+
+}
+
+.contactFlex > p{
+  color: white;
+  
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.13px;
+  text-align: left;
+  
+
+}

@@ -1,0 +1,174 @@
+.bodyTop{
+    display: flex;
+}
+
+.bodyTop-left{
+    width: 700px;
+    height: 40px;
+    left: 302px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.bodyTop-right{
+    width: 350px;
+    height: 75px;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.inner-box{
+    width: 200px;
+    height: 20px;
+    top: 329px;
+    margin-left: 123px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: skyblue;
+    border-radius: 50px;
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    color: white;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.13px;
+    text-align: center;
+
+}
+
+.plus-img{
+    width: 16.5px;
+height: 16.5px;
+top: 19.25px;
+left: 2.75px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.bodyTop-left{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.search-box{
+    width: 357px;
+    height: 33px;
+    border: none;
+
+}
+
+.searchimage{
+    width: 16.21px;
+    height: 16.21px;
+
+}
+
+.selectoption{
+    border: none;
+    background: none;
+    width: 136px;
+    height: 21px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.13px;
+    text-align: left;
+
+}
+
+.selectoption2{
+    width: 86px;
+    height: 22px;
+    border: none;
+    background: none;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.78px;
+    text-align: left;
+
+}
+
+.images{
+    width: 138px;
+height: 22px;
+top: 339px;
+left: 914px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+table{
+    height: 540px;
+    background-color: white;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.table-head{
+    display: flex;
+    gap: 65px;
+}
+
+.main-body{
+    margin-top: 20px;
+}
+
+table > thead > tr{
+    font-size: medium;
+    font-weight: 500;
+    width: 100px;
+    
+}
+
+hr{
+    height:0.1;
+}
+
+.table-row-data{
+    display: flex;
+    gap: 70px;
+    
+}
+
+tbody > tr > td {
+    width: 94px;
+    font-size:smaller;
+
+}
+
+.download{
+    width: 22px;
+height: 19.25px;
+gap: 0px;
+border: 0.5px 0px 0px 0px;
+opacity: 0px;
+margin-top: -10px;
+}
+
+.open-btn{
+    width: 120px;
+height: 19.25px;
+background-color: #FF6B00;
+padding: 10px;
+border-radius: 50px;
+margin-top: -10px;
+margin-left: -20px;
+}
+
+tbody > tr {
+    margin-top: 50px;
+}
+
