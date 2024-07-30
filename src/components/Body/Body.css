@@ -134,7 +134,9 @@ table > thead > tr{
 }
 
 hr{
-    height:0.1;
+    border: 0;
+    height: 1px;
+    background : rgb(202, 201, 201);
 }
 
 .table-row-data{
