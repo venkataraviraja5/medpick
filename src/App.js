@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
-import SideBar from './components/SideBar';
-import Home from './components/Home';
+import SideBar from './components/sidebar/SideBar';
+import Home from './components/Home/Home';
 
 function App() {
   return (

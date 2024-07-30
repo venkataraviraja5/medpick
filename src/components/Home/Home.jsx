@@ -1,8 +1,8 @@
 import React from 'react'
 import "./Home.css"
-import NavBar from './Navbar/NavBar'
-import BelowNavbar from './Navbar/BelowNavbar'
-import Body from './Body/Body'
+import NavBar from '../Navbar/NavBar'
+import BelowNavbar from '../Navbar/BelowNavbar'
+import Body from '../Body/Body'
 
 const Home = () => {
   return (
