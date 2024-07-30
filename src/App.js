@@ -5,7 +5,7 @@ import Home from './components/Home';
 
 function App() {
   return (
-    <div style={{display:"flex"}}>
+    <div className='app'>
       <SideBar />
       <Home />
     </div>
